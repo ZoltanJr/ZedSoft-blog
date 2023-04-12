@@ -1,8 +1,10 @@
 ---
 title: "Hello World!"
 date: 2023-03-28T15:28:38+02:00
-draft: false
+draft: true
 ---
+
+## EDIT: I was not particularly happy with this one so I decided to remove it from the site.
 
 I wanted to start blogging for a while and as a casual follower of the generative AI hype train the obvious decision was to mess around with GPT-4. Using this little tool is like finding a new coding superpower - super convinient for well defined tasks. So let's see how this blog came to be...
 

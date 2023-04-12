@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://zedsoft.hu'
 languageCode = 'en-us'
 title = 'ZedSoft Blog'
 theme = "ananke"
