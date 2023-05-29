@@ -5,7 +5,7 @@ draft: false
 featured_image: '/images/IMG_1810.png'
 ---
 
-The internet feels dead. It has now became a gigantic, static source of big data that can be queried but personal interactions are no more. It is also icreasingly hard to trace the source of any given "information" and validate its origins. Trust us bro, our data is legit and our insights are real.
+The internet feels dead. It has now became a gigantic, static source of big data that can be queried (for now) but personal interactions are no more. It is also increasingly hard to trace the source of any given "information" and validate its origins. Trust us bro, our data is legit and our insights are real.
 
 Personal blogs are there to drive traffic for ads. Social media is there to mine data and to sell ads. *So did capitalism kill the internet?* We do have an innate desire to use every scheme at our disposal to gain revenue.
 
