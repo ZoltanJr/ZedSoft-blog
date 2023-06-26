@@ -2,7 +2,6 @@
 title: "Needle in a Haystack"
 date: 2023-04-09T01:16:32+02:00
 draft: false
-featured_image: '/images/IMG_1966.png'
 ---
 Valuable information is hard to come by compared to the amount of data we have access to. Generative AI will provide even more noise to the ever growing orchestra of the global internet. How can one combat this seemingly unavoidable wave of events that are leading up to a larger-than-ever haystack of data?
 

@@ -2,7 +2,6 @@
 title: "Who Killed the Internet"
 date: 2023-05-29T13:57:48+02:00
 draft: false
-featured_image: '/images/IMG_1810.png'
 ---
 
 The internet feels dead. It has now become a gigantic, static source of big data that can be queried (for now) but personal interactions are no more. It is also increasingly hard to trace the source of any given "information" and validate its origins. Trust us bro, our data is legit and our insights are real.
